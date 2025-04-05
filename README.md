@@ -5,4 +5,5 @@ commands
  git status
  git add filename.exe
  git commit -m "msg for others to understand"
- git push -u origin main
+ git push -u origin main (local to remote)
+ git pull origin main (remote to local)
